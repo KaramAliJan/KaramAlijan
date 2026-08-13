@@ -14,3 +14,12 @@ My current focus is on **Artificial Intelligence, backend engineering, and syste
 Currently, I'm exploring **LLMs, AI agents, APIs, databases, and full-stack applications** while strengthening my foundations in computer science.
 
 > **Learn deeply. Build consistently. Solve meaningful problems.**
+## Current Focus
+
+| Area | What I'm Working On |
+|---|---|
+| 🤖 AI | LLMs, AI agents, embeddings & intelligent systems |
+| ⚙️ Backend | FastAPI, APIs, authentication & databases |
+| 🗄️ Data | PostgreSQL, vector databases & semantic search |
+| 🧠 CS Foundations | Algorithms, operating systems & system design |
+| 🚀 Building | Turning ideas into working products |
