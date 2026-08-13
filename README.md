@@ -18,11 +18,11 @@ Currently, I'm exploring **LLMs, AI agents, APIs, databases, and full-stack appl
 
 | Area | What I'm Working On |
 |---|---|
-| 🤖 AI | LLMs, AI agents, embeddings & intelligent systems |
-| ⚙️ Backend | FastAPI, APIs, authentication & databases |
-| 🗄️ Data | PostgreSQL, vector databases & semantic search |
-| 🧠 CS Foundations | Algorithms, operating systems & system design |
-| 🚀 Building | Turning ideas into working products |
+| AI | LLMs, AI agents, embeddings & intelligent systems |
+|  Backend | FastAPI, APIs, authentication & databases |
+|  Data | PostgreSQL, vector databases & semantic search |
+|  CS Foundations | Algorithms, operating systems & system design |
+|  Building | Turning ideas into working products |
 ## Currently Building
 
 ### FounderOS
@@ -37,7 +37,7 @@ An AI-powered platform designed to help founders make better decisions, manage i
 <tr>
 <td width="50%">
 
-### 🤖 FounderOS
+###  FounderOS
 
 AI-powered co-pilot for startup founders using specialized AI agents to help with decisions, planning, contradictions, and persistent memory.
 
@@ -49,7 +49,7 @@ AI-powered co-pilot for startup founders using specialized AI agents to help wit
 
 <td width="50%">
 
-### 🎥 YouTube Clone
+###  YouTube Clone
 
 Full-stack video streaming platform with video uploads, streaming, REST APIs, authentication, and content-based recommendations.
 
@@ -63,7 +63,7 @@ Full-stack video streaming platform with video uploads, streaming, REST APIs, au
 <tr>
 <td width="50%">
 
-### 🔐 Serialization Vulnerability Detection
+###  Serialization Vulnerability Detection
 
 A Python security project for detecting insecure serialization and deserialization patterns using AST-based static analysis and machine learning.
 
@@ -144,5 +144,4 @@ A collection of tutorials and examples covering fundamental assembly language co
 <div align="center">
 
 *"Build things worth building."*
-
 </div>
