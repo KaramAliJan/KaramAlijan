@@ -3,6 +3,8 @@
 <img src="./assets/hero.png" width="100%" alt="Karam Ali Jan - GitHub Profile">
 
 </div>
+---
+
 ## About Me
 
 I'm a Computer Science student at the **University of Sargodha** with a strong interest in building software that solves real problems.
